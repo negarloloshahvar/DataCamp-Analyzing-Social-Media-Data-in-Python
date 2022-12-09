@@ -1,2 +1,3 @@
 # DataCamp-Analyzing-Social-Media-Data-in-Python
-In this course, we will learn how to collect Twitter data and analyze tweet text, Twitter networks, and the geographical origin of the tweet.
+
+Twitter produces hundreds of million messages per day, with people around the world discussing sports, politics, business, and entertainment. We can access thousands of messages flowing in this stream in a matter of minutes. In this course, we will learn how to collect Twitter data and analyze tweet text, Twitter networks, and the geographical origin of the tweet. We'll be doing this with datasets on tech companies, data science hashtags, and the 2018 State of the Union address. Using these methods, we will be able to inform business and political decision-making by discovering the prevalence of important topics, the diversity of discussion networks, and a topic's geographical reach.
